@@ -5,9 +5,9 @@ POST {{baseUrl}}/accounts
 Content-Type: application/json
 
 {
-  "name": "Stefani Joanne",
-  "email": "gaga@gmail.com",
-  "password": "bornthisway"
+  "name": "Lucas de Brasília",
+  "email": "luquinhasdohack@gmail.com",
+  "password": "soutroll"
 }
 
 ###
